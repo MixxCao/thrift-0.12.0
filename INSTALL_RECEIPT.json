@@ -1,0 +1,72 @@
+{
+  "homebrew_version": "3.4.11-152-ga3fab02",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": false,
+  "poured_from_bottle": false,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": null,
+  "time": 1653900784,
+  "source_modified_time": 1546640698,
+  "stdlib": "libstdcxx",
+  "compiler": "gcc-9",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "icu4c",
+      "version": "70.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "bzip2",
+      "version": "1.0.8",
+      "declared_directly": false
+    },
+    {
+      "full_name": "zlib",
+      "version": "1.2.12",
+      "declared_directly": false
+    },
+    {
+      "full_name": "boost",
+      "version": "1.78.0",
+      "declared_directly": true
+    },
+    {
+      "full_name": "ca-certificates",
+      "version": "2022-04-26",
+      "declared_directly": false
+    },
+    {
+      "full_name": "openssl@1.1",
+      "version": "1.1.1o",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "path": "/home/linuxbrew/.linuxbrew/Homebrew/Library/Taps/homebrew/homebrew-local-tap/Formula/thrift@0.12.0.rb",
+    "tap": "homebrew/local-tap",
+    "tap_git_head": "2a46271c34db5db27e4bcab5405498dde4df6b45",
+    "spec": "stable",
+    "versions": {
+      "stable": "0.12.0",
+      "head": "HEAD",
+      "version_scheme": 0
+    }
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Linux",
+    "os_version": "3.10.0-1160.15.2.el7.x86_64",
+    "cpu_family": "skylake",
+    "glibc_version": "2.31",
+    "oldest_cpu_family": "core2"
+  }
+}
